@@ -4,7 +4,13 @@ Este projeto é uma landing page simples para vender o e-book "30-Day Home Weigh
 
 ## 📁 Estrutura
 
-- `index.html`: Página HTML principal com estilo incorporado.
+-<a href="https://heldercarlos.gumroad.com/l/eklbx"
+   class="cta-button"
+   target="_blank"
+   rel="noopener noreferrer">
+  🟢 Buy Now for $30
+</a>
+: Página HTML principal com estilo incorporado.
 - `images/hero.jpg`: Imagem de destaque para a seção principal.
 - `README.md`: Instruções do projeto.
 
